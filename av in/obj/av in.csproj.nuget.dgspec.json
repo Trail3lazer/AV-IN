@@ -1,0 +1,65 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\development\\AV-IN\\av in\\av in.csproj": {}
+  },
+  "projects": {
+    "C:\\development\\AV-IN\\av in\\av in.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\development\\AV-IN\\av in\\av in.csproj",
+        "projectName": "av in",
+        "projectPath": "C:\\development\\AV-IN\\av in\\av in.csproj",
+        "packagesPath": "C:\\Users\\jwight1\\.nuget\\packages\\",
+        "outputPath": "C:\\development\\AV-IN\\av in\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\jwight1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "\\\\ctac\\department\\IT\\Private\\Programming\\Nuget Packages\\Shared": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://tfs.1800contacts.com/DefaultCollection/_packaging/EnterprisePrivate/nuget/v3/index.json": {},
+          "https://tfs.1800contacts.com/DefaultCollection/_packaging/EnterprisePrivate@Release/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.CustomTabs": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Android.Support.Design": {
+              "target": "Package",
+              "version": "[28.0.0.3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.3.1, )"
+            }
+          }
+        }
+      }
+    }
+  }
+}
